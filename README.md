@@ -1,4 +1,4 @@
-<h2> Hola Gente, I'm Eduardo Bedoya! <img src="https://media1.giphy.com/media/l2QZQ53G4vWK9DFYY/giphy.gif?cid=ecf05e47zq9i11qy0gj5mfqvqlmf9ksmhe4e3bao7uaa4jll&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"></h2>
+<h2> Hola Gente, I'm Eduardo Bedoya! <img src="https://media0.giphy.com/media/1gbQIL4a58K10zDUqs/giphy.gif?cid=ecf05e47ylee60sih778yu9djzm1bl0cbfwipyd1u3lkr9ty&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Tester Automation Engineer at <a href="https://www.vortech.es/en/">Vortech PCI Group</a>
 </em></p>
