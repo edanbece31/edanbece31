@@ -21,8 +21,6 @@ const edanbece = {
         devOps: ["AWS", "Docker🐳", "OpenLens", "Jenkins", "SonarQube"]
         
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     thoughtfulFact: "When you fail, don't be anoying, be smart you got the main problem in your hands"
 };
 ```
